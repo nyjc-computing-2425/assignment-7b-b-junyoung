@@ -30,7 +30,6 @@ def read_testscores(filename):
       'grade' (Determines the grade of each student and stores it under the 'grade' key)
   4. Returns a list of dicts, each dict representing row data for a single student
 
-
   Parameter
   ---------
   filename: str
